@@ -1,6 +1,6 @@
 ## Hi, I'm Aline 👋
 
-
+- 👨‍🎓 I'm currently studying System Technology Analysis and Development
 - 🔭 I’m currently working with ElasticSearch and Algolia
 - 🌱 I’m currently learning JavaScript and Golang
 - 😄 Pronouns: She/Her
