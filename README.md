@@ -1,10 +1,10 @@
 ## Hi, I'm Aline 👋
 
-- 👨‍🎓 I'm currently studying System Technology Analysis and Development
-- 🔭 I’m currently working with ElasticSearch and Algolia
-- 🌱 I’m currently learning JavaScript and Golang
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm also a French teacher
+- 👨‍🎓 I have a degree in System Technology Analysis and Development.
+- 🔭 I’m currently working with ElasticSearch and Algolia.
+- 🌱 I’m currently learning React and DatoCMS.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I'm also a graduate in French Language and Literature.
 
 ### Languages
 
