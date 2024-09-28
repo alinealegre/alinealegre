@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I have a degree in System Technology Analysis and Development.
 - 🔭 I’m currently working with ElasticSearch and Algolia.
-- 🌱 I’m currently learning React and DatoCMS.
+- 🌱 I’m currently learning AWS and C#.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I'm also a graduate in French Language and Literature.
 
